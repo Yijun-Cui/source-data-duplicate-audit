@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文源数据查重"
+  short_description: "按百分比和组内波动筛查源数据重复，输出有逐点证据的 Excel 高亮副本"
+  default_prompt: "使用 $source-data-duplicate-audit 检查这份 Excel 源数据，核对分组覆盖，并交付高亮副本和复核说明。"

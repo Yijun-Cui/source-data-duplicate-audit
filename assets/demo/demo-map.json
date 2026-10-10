@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0",
+  "reviewed": true,
+  "groups": [
+    {
+      "id": "base",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "base",
+      "ranges": [
+        "A2:A11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "exact-copy",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "exact-copy",
+      "ranges": [
+        "B2:B11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "shuffled-copy",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "shuffled-copy",
+      "ranges": [
+        "C2:C11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "partial-copy",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "partial-copy",
+      "ranges": [
+        "D2:D11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "near-copy",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "near-copy",
+      "ranges": [
+        "E2:E11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "near-shuffled",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "near-shuffled",
+      "ranges": [
+        "F2:F11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "offset-copy",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "offset-copy",
+      "ranges": [
+        "G2:G11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "scale-copy",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "scale-copy",
+      "ranges": [
+        "H2:H11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "affine-copy",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "affine-copy",
+      "ranges": [
+        "I2:I11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "near-affine",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "near-affine",
+      "ranges": [
+        "J2:J11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "near-offset",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "near-offset",
+      "ranges": [
+        "K2:K11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "near-scale",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "near-scale",
+      "ranges": [
+        "L2:L11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "arithmetic",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "arithmetic",
+      "ranges": [
+        "M2:M11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "near-arithmetic",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "near-arithmetic",
+      "ranges": [
+        "N2:N11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "geometric",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "geometric",
+      "ranges": [
+        "O2:O11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "near-geometric",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "near-geometric",
+      "ranges": [
+        "P2:P11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "terminal",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "terminal",
+      "ranges": [
+        "Q2:Q11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "low-variance-a",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "low-variance-a",
+      "ranges": [
+        "R2:R11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "low-variance-b",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "low-variance-b",
+      "ranges": [
+        "S2:S11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "counts-a",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "counts-a",
+      "ranges": [
+        "T2:T11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "counts-b",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "counts-b",
+      "ranges": [
+        "U2:U11"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "precision-a",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "precision-a",
+      "ranges": [
+        "V2:V7"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "precision-b",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "precision-b",
+      "ranges": [
+        "W2:W7"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "gap-a",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "gap-a",
+      "ranges": [
+        "X2:X7"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "gap-b",
+      "sheet": "Columns",
+      "panel": "Synthetic examples",
+      "label": "gap-b",
+      "ranges": [
+        "Y2:Y7"
+      ],
+      "ordering": "observed"
+    },
+    {
+      "id": "record-metric-D",
+      "sheet": "Records",
+      "label": "记录指标 D",
+      "ranges": [
+        "D2:D7"
+      ],
+      "comparison_set": "record_metrics"
+    },
+    {
+      "id": "record-metric-E",
+      "sheet": "Records",
+      "label": "记录指标 E",
+      "ranges": [
+        "E2:E7"
+      ],
+      "comparison_set": "record_metrics"
+    },
+    {
+      "id": "derived-B",
+      "sheet": "Derived",
+      "label": "B",
+      "ranges": [
+        "B2:B11"
+      ],
+      "comparison_set": "derived"
+    },
+    {
+      "id": "derived-C",
+      "sheet": "Derived",
+      "label": "C",
+      "ranges": [
+        "C2:C11"
+      ],
+      "comparison_set": "derived"
+    },
+    {
+      "id": "derived-D",
+      "sheet": "Derived",
+      "label": "D",
+      "ranges": [
+        "D2:D11"
+      ],
+      "comparison_set": "derived"
+    },
+    {
+      "id": "row-X-Control",
+      "sheet": "Horizontal",
+      "panel": "Fig. 1A",
+      "label": "Strain X/Control",
+      "ranges": [
+        "B2:F2"
+      ],
+      "comparison_set": "horizontal"
+    },
+    {
+      "id": "row-X-Drug",
+      "sheet": "Horizontal",
+      "panel": "Fig. 1A",
+      "label": "Strain X/Drug",
+      "ranges": [
+        "G2:K2"
+      ],
+      "comparison_set": "horizontal"
+    },
+    {
+      "id": "row-Y-Control",
+      "sheet": "Horizontal",
+      "panel": "Fig. 1A",
+      "label": "Strain Y/Control",
+      "ranges": [
+        "B3:F3"
+      ],
+      "comparison_set": "horizontal"
+    },
+    {
+      "id": "row-Y-Drug",
+      "sheet": "Horizontal",
+      "panel": "Fig. 1A",
+      "label": "Strain Y/Drug",
+      "ranges": [
+        "G3:K3"
+      ],
+      "comparison_set": "horizontal"
+    },
+    {
+      "id": "time-Control-0",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Control/day=0",
+      "ranges": [
+        "B2:E2"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Drug-0",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Drug/day=0",
+      "ranges": [
+        "F2:I2"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Control-1",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Control/day=1",
+      "ranges": [
+        "B3:E3"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Drug-1",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Drug/day=1",
+      "ranges": [
+        "F3:I3"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Control-2",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Control/day=2",
+      "ranges": [
+        "B4:E4"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Drug-2",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Drug/day=2",
+      "ranges": [
+        "F4:I4"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Control-3",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Control/day=3",
+      "ranges": [
+        "B5:E5"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Drug-3",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Drug/day=3",
+      "ranges": [
+        "F5:I5"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Control-4",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Control/day=4",
+      "ranges": [
+        "B6:E6"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Drug-4",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Drug/day=4",
+      "ranges": [
+        "F6:I6"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Control-5",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Control/day=5",
+      "ranges": [
+        "B7:E7"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "time-Drug-5",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "Drug/day=5",
+      "ranges": [
+        "F7:I7"
+      ],
+      "kind": "time_slice",
+      "comparison_set": "time_slices"
+    },
+    {
+      "id": "trajectory-B",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "B",
+      "ranges": [
+        "B2:B7"
+      ],
+      "kind": "trajectory",
+      "role": "auxiliary",
+      "comparison_set": "trajectories",
+      "ordering": "time"
+    },
+    {
+      "id": "trajectory-C",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "C",
+      "ranges": [
+        "C2:C7"
+      ],
+      "kind": "trajectory",
+      "role": "auxiliary",
+      "comparison_set": "trajectories",
+      "ordering": "time"
+    },
+    {
+      "id": "trajectory-D",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "D",
+      "ranges": [
+        "D2:D7"
+      ],
+      "kind": "trajectory",
+      "role": "auxiliary",
+      "comparison_set": "trajectories",
+      "ordering": "time"
+    },
+    {
+      "id": "trajectory-E",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "E",
+      "ranges": [
+        "E2:E7"
+      ],
+      "kind": "trajectory",
+      "role": "auxiliary",
+      "comparison_set": "trajectories",
+      "ordering": "time"
+    },
+    {
+      "id": "trajectory-F",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "F",
+      "ranges": [
+        "F2:F7"
+      ],
+      "kind": "trajectory",
+      "role": "auxiliary",
+      "comparison_set": "trajectories",
+      "ordering": "time"
+    },
+    {
+      "id": "trajectory-G",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "G",
+      "ranges": [
+        "G2:G7"
+      ],
+      "kind": "trajectory",
+      "role": "auxiliary",
+      "comparison_set": "trajectories",
+      "ordering": "time"
+    },
+    {
+      "id": "trajectory-H",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "H",
+      "ranges": [
+        "H2:H7"
+      ],
+      "kind": "trajectory",
+      "role": "auxiliary",
+      "comparison_set": "trajectories",
+      "ordering": "time"
+    },
+    {
+      "id": "trajectory-I",
+      "sheet": "Time",
+      "panel": "Time matrix",
+      "label": "I",
+      "ranges": [
+        "I2:I7"
+      ],
+      "kind": "trajectory",
+      "role": "auxiliary",
+      "comparison_set": "trajectories",
+      "ordering": "time"
+    }
+  ],
+  "excluded": [
+    {
+      "sheet": "Derived",
+      "ranges": [
+        "A2:A11"
+      ],
+      "reason": "时间轴"
+    },
+    {
+      "sheet": "Time",
+      "ranges": [
+        "A2:A7"
+      ],
+      "reason": "天数轴"
+    }
+  ],
+  "records": [
+    {
+      "sheet": "Records",
+      "first_row": 2,
+      "last_row": 7,
+      "fields": {
+        "sample_id": "A",
+        "group": "B",
+        "sex": "C",
+        "value_1": "D",
+        "value_2": "E"
+      },
+      "id_fields": [
+        "sample_id"
+      ],
+      "stable_fields": [
+        "group",
+        "sex"
+      ],
+      "value_fields": [
+        "value_1",
+        "value_2"
+      ],
+      "unique_observation": true
+    }
+  ],
+  "reuse": [],
+  "derived_checks": [
+    {
+      "id": "difference-C",
+      "source_sheet": "Derived",
+      "source_range": "B2:B11",
+      "target_sheet": "Derived",
+      "target_range": "C2:C11",
+      "operation": "lag_difference",
+      "lag": 2,
+      "status": "confirmed",
+      "reason": "模拟数据声明的两步差分"
+    },
+    {
+      "id": "difference-D",
+      "source_sheet": "Derived",
+      "source_range": "B2:B11",
+      "target_sheet": "Derived",
+      "target_range": "D2:D11",
+      "operation": "lag_difference",
+      "lag": 2,
+      "status": "hypothesis",
+      "reason": "模拟数据声明的两步差分"
+    }
+  ]
+}

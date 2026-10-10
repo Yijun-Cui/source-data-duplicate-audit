@@ -1,0 +1,21 @@
+{
+  "min_group_size": 4,
+  "min_partial_count": 5,
+  "min_partial_coverage": 0.60,
+  "high_precision_decimals": 3,
+  "multi_precision_count": 3,
+  "near_relative_tolerance": 0.01,
+  "near_coverage": 0.90,
+  "near_similarity": 0.99,
+  "near_scale_ratio": 0.25,
+  "affine_normalized_error": 0.001,
+  "structure_cv": 0.05,
+  "ratio_cv": 0.02,
+  "structure_normalized_error": 0.05,
+  "terminal_positions": [2, 3, 4],
+  "terminal_min_n": 8,
+  "terminal_concentration": 0.80,
+  "near_records": true,
+  "max_comparison_pairs": 200000,
+  "max_matching_cells": 250000
+}
